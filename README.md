@@ -15,9 +15,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </p>
   </div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshgurpude&show_icons=true&theme=dark&locale=en" alt="mukeshgurpude" /></p>
 </section>
 <section>
   <h3>My Github stats</h3>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshgurpude&theme=dark" alt="mukeshgurpude" /></p>
+  <div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukeshgurpude&show_icons=true&theme=dark&locale=en&count_private=true" alt="mukeshgurpude" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshgurpude&theme=dark" alt="mukeshgurpude" />
+  </div>
 </section>
