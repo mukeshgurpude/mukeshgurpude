@@ -20,7 +20,7 @@ I'm now exploring with cloud computing and containerization.
 
 
 ## Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,docker,linux,git,mongo,vscode,django,react,prisma,figma)]
+![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,docker,linux,git,mongo,vscode,django,react,prisma,figma)
 
 
 ## Stats
