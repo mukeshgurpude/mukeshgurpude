@@ -1,25 +1,34 @@
-# Hi 👋
-<section style="display: flex; flex-flow: wrap; justify-content: space-around">
-  <div>
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://dev.to/mukeshgurpude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mukeshgurpude" height="30" width="40" /></a>
-      <a href="https://twitter.com/mukeshgurpude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukeshgurpude" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/mukeshgurpude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukeshgurpude" height="30" width="40" /></a>
-      <a href="https://hashnode.com/@mukeshgurpude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mukeshgurpude" height="30" width="40" /></a>
-    </p>
-    <h3>Languages and Tools:</h3>
-    <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </p>
-  </div>
-</section>
-<section>
-  <h3>My Github stats</h3>
-  <div style="display: flex; flex-direction: row;">
+<div align="center">
+    <h1 style="margin-bottom: 4px">Mukesh Gurpude</h1>
+    <div style="display: flex; justify-content: center; gap: 12px">
+        <a href="https://twitter.com/mukeshgurpude">
+            <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="twitter" height="35"/>
+        </a>
+        <a href="https://linkedin.com/in/mukeshgurpude">
+            <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="twitter" height="35"/>
+        </a>
+        <a href="https://github.com/mukeshgurpude">
+            <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="twitter" height="35"/>
+        </a>
+    </div>
+</div>
+
+<hr>
+
+I'm a student and full-stack developer from India. I enjoy creating things with the Python and MERN stack.
+I'm now exploring with cloud computing and containerization.
+
+
+## Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,docker,linux,git,mongo,vscode,django,react,figma)]
+
+
+## Stats
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=mukeshgurpude&show_icons=true&theme=dark&locale=en&count_private=true" alt="mukeshgurpude" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshgurpude&theme=dark" alt="mukeshgurpude" />
-  </div>
-</section>
+</div>
+
+<hr>
+
+Icons by [Skillicons](https://skillicons.dev)
